@@ -3,7 +3,7 @@
 I don't want to maintain this module anymore since I just use
 [minimist](https://npmjs.org/package/minimist), the argument parsing engine,
 directly instead nowadays.
-
+h
 See [yargs](https://github.com/chevex/yargs) for the modern, pirate-themed
 successor to optimist.
 
@@ -97,8 +97,8 @@ console.log(
     $ ./bool.js -sp --fr
     Le chat dit: miaou.
 
-And non-hypenated options too! Just use `argv._`!
--------------------------------------------------
+And non-hyphenated options too! Just use `argv._`!
+--------------------------------------------------
  
 nonopt.js:
 
